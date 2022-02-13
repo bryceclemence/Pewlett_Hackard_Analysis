@@ -6,6 +6,7 @@ start to retire.
 
 # Results
 From our analysis there is going to be a upcoming need to replace 72,458 job positions at Pewlett Hackard.
+
   -25,916 of these jobs are Senior Engineers
   -24,926 of these jobs are Senior Staff employees
   -9,285 of these jobs are Engineers
